@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.2",
+    "chalk": "^1.1.3",
+    "express": "^4.14.0",
+    "express-validator": "^2.20.8",
+    "lodash": "^4.13.1",
+    "mongoose": "^4.5.3",
+    "rand-token": "^0.2.1",
+    "require-all": "^2.0.0"
+  }
+}
